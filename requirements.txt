@@ -1,0 +1,9 @@
+Quart
+Quart-CORS
+uvicorn
+Telethon
+pyaes
+pyTelegramBotAPI
+psycopg2-binary
+requests
+python-dotenv
